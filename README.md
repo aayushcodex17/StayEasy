@@ -247,10 +247,10 @@ Prices are automatically recalculated on a schedule via `PricingUpdateService`.
 
 ```bash
 # Clone the repository
-git clone https://github.com/aayushcodex17/StayEase.git
+git clone https://github.com/aayushcodex17/StayEasy.git
 
 # Navigate into the project directory
-cd StayEase
+cd StayEasy
 
 # Build the project
 mvn clean install
